@@ -15,9 +15,9 @@
 
 <br>
 
-<h2 align="center"> <img src="/imgs/title1.png" width="25"/> <em>Sobre mi </em></h2>
+<h2 align="center"> <img src="/images/title1.png" width="25"/> <em>Sobre mi </em></h2>
 
-<img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="250" align="right" style="margin-left: 20px;" />
+<img src="images/aboutme.jpg" width="250" align="right" style="margin-left: 20px;" />
 <br/>
 
 <p>
@@ -28,13 +28,13 @@
 <br/>
 
 <p align="center">
-   <img src="/imgs/img3.png" width="15"/>   <em><b> Estudiando en la Universidad Tecnológica Nacional, Regional Buenos Aires. </b></em> <br/>
-   <img src="/imgs/img4.png" width="15"/>   <em><b> Ayudante de cátedra en la materia Sistemas Operativos </b></em><br/>
+   <img src="/images/img3.png" width="15"/>   <em><b> Estudiando en la Universidad Tecnológica Nacional, Regional Buenos Aires. </b></em> <br/>
+   <img src="/images/img4.png" width="15"/>   <em><b> Ayudante de cátedra en la materia Sistemas Operativos </b></em><br/>
 </p>
 
 <br/>
 <br/>
-<h2 align="center"> <img src="/imgs/title2.png" width="25"/> <em> Tecnologías </em> </h2>
+<h2 align="center"> <img src="/images/title2.png" width="25"/> <em> Tecnologías </em> </h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -57,7 +57,7 @@
 <br/>
 <br/>
 
-<h2 align="center""> <img src="/imgs/title3.png" width="25"/> <em> Estadísticas </em> </h2>
+<h2 align="center""> <img src="/images/title3.png" width="25"/> <em> Estadísticas </em> </h2>
 
 <div align = "center"> 
 
