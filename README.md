@@ -1,4 +1,4 @@
-<img src = "githubanner.JPG"/>
+<img src = "/images/banner.jpg"/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/juan-cruz-castelo-1028513a5" target="_blank">
